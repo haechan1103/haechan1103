@@ -18,6 +18,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-7E4DD2.svg?&style=for-the-badge&logo=Unity&logoColor=white)
+
+# :mailbox_with_mail: Contacts
+<!--[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://soo-vely-dev.tistory.com/)](https://soo-vely-dev.tistory.com/) -->
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haecehan1103@ajou.ac.kr)](mailto:haechan1103@ajou.ac.kr)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:haechan1103@naver.com)](mailto:haechan1103@naver.com)
 <!--
 **haechan1103/haechan1103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
