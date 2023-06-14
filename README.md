@@ -1,9 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=KimHaechan%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:B5ABD6,100:B5ABD6&height=300&section=header&text=Love&nbsp;Your&nbsp;Fate&animation=scaleIn&fontColor=B5ABD6&fontSize=90)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaechan1103%2Fhaechan1103&count_bg=%2379C83D&title_bg=%2336B867&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haechan1103&show_icons=true&theme=radical) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=haechan1103)](https://solved.ac/haechan1103/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haechan1103&show_icons=true&theme=radical)
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=haechan1103)](https://solved.ac/haechan1103/)
 
 # 💪Skills
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
