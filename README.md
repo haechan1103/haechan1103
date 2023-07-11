@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF78C4,100:FFECEC&height=300&section=header&text=Love&nbsp;Your&nbsp;Fate&fontColor=FFECEC&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF78C4,100:FFECEC&height=300&section=header&text=Coding&nbsp;Life&fontColor=FFECEC&fontSize=90)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaechan1103%2Fhaechan1103&count_bg=%2379C83D&title_bg=%2336B867&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
