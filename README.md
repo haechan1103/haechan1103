@@ -18,6 +18,9 @@
 ![CSharp](https://img.shields.io/badge/CSharp-239120.svg?&style=for-the-badge&logo=CSharp&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white)
+![Android Native](https://img.shields.io/badge/Android%20Native-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
+
 
 
 ### Tools
