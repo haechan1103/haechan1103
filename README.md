@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=FF78C4&center=true&vCenter=true&width=620&lines=Tech+Lead+%40+ComeIT+Software;Mobile+%7C+Cross-Platform+%7C+Unity+%7C+Full-Stack;Building+with+Claude+Code+everyday;Bite+the+bullet+%E2%80%94+ship+it)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=FF78C4&center=true&vCenter=true&width=620&lines=Co-CEO+%26+Tech+Lead+%40+ComeIT+Software;Mobile+%7C+Cross-Platform+%7C+Unity+%7C+Full-Stack;Building+with+Claude+Code+everyday;Bite+the+bullet+%E2%80%94+ship+it)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,7 +18,7 @@ haechan@github:~$ whoami
 ```yaml
 👤 identity:
   name:      "haechan"
-  role:      "Tech Lead"
+  role:      "Co-Founder & Tech Lead"
   company:   "ComeitSoftware (컴잇 소프트웨어) - https://comeitsoftware.com"
   location:  "Seoul, South Korea 🇰🇷"
 
