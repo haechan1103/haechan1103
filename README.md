@@ -96,12 +96,8 @@ haechan@github:~$ whoami
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=haechan1103&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ---
-
+<!-- 
 ## 🧠 Problem Solving
 
 <div align="center">
@@ -111,6 +107,7 @@ haechan@github:~$ whoami
 </div>
 
 ---
+-->
 
 ## 📫 Reach Out
 
