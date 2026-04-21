@@ -1,46 +1,126 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF78C4,100:FFECEC&height=300&section=header&text=Bite&nbsp;The&nbsp;Bullet&fontColor=FFECEC&fontSize=90)
+<!-- ===========  HEADER  =========== -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF78C4,100:FFECEC&height=280&section=header&text=Bite%20The%20Bullet&fontColor=FFECEC&fontSize=80&animation=fadeIn&fontAlignY=38)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haechan1103&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haechan1103)](https://github.com/haechan1103/github-readme-stats)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=FF78C4&center=true&vCenter=true&width=620&lines=%E2%9A%A1+Tech+Lead+%40+ComeIT+Software;%F0%9F%93%B1+Mobile+%7C+Cross-Platform+%7C+Unity+%7C+Full-Stack;%F0%9F%A4%96+Building+with+Claude+Code+everyday;Bite+the+bullet+%E2%80%94+ship+it+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+<!-- ===========  NEOFETCH-STYLE ABOUT  =========== -->
+
+```sh
+haechan@github:~$ whoami
+```
+
+```yaml
+👤 identity:
+  name:      "haechan"
+  role:      "Tech Lead"
+  company:   "ComeitSoftware (컴잇 소프트웨어) - https://comeitsoftware.com"
+  location:  "Seoul, South Korea 🇰🇷"
+
+💼 current_focus:
+  - 📱 Mobile & Cross-Platform (Android / iOS / Flutter / React Native)
+  - 🎮 Unity Game Development
+  - 🌐 Full-stack Web (React + Node.js / Go + PostgreSQL)
+  - 🤖 Claude Code 기반 spec-to-PR 자동화 파이프라인 연구
+
+🛠  building_right_now:
+  - "쏙핀 / 밥알": Instagram 기반 맛집·레시피 지도 앱
+  - "사이드 실험실":   잘 될지 모르는 것들을 일단 만들어보는 공간
+
+💬 philosophy: >
+  Bite the bullet — ship it
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Mobile · Game**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Unity](https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=Unity&logoColor=white)
+
+**Frontend · Backend · Data**
+
+![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=Node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
+
+**DevTools**
+
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude%20Code-D97757.svg?style=for-the-badge&logo=anthropic&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+## 🐍 Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haechan1103/haechan1103/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haechan1103/haechan1103/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/haechan1103/haechan1103/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=haechan1103&bg_color=0D1117&color=FF78C4&line=FF78C4&point=FFECEC&area=true&hide_border=true&theme=react-dark" width="95%" />
+
+<br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=haechan1103&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🧠 Problem Solving
+
+<div align="center">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=haechan1103)](https://solved.ac/haechan1103/)
 
-# 💪Skills
-![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2.svg?&style=for-the-badge&logo=Dart&logoColor=white)
+</div>
 
-![CSharp](https://img.shields.io/badge/CSharp-239120.svg?&style=for-the-badge&logo=CSharp&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white)
-![Android Native](https://img.shields.io/badge/Android%20Native-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
+---
 
+## 📫 Reach Out
 
+<div align="center">
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-7E4DD2.svg?&style=for-the-badge&logo=Unity&logoColor=white)
+[![Gmail](https://img.shields.io/badge/haechan1103@ajou.ac.kr-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:haechan1103@ajou.ac.kr)
+[![Naver](https://img.shields.io/badge/haechan1103@naver.com-03C75A?style=for-the-badge&logo=Naver&logoColor=white)](mailto:haechan1103@naver.com)
 
-# :mailbox_with_mail: Contacts
-<!--[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://soo-vely-dev.tistory.com/)](https://soo-vely-dev.tistory.com/) -->
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haecehan1103@ajou.ac.kr)](mailto:haechan1103@ajou.ac.kr)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:haechan1103@naver.com)](mailto:haechan1103@naver.com)
-<!--
-**haechan1103/haechan1103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FFECEC,100:FF78C4&height=120&section=footer)
