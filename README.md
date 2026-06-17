@@ -26,7 +26,7 @@ haechan@github:~$ whoami
   - 📱 Mobile & Cross-Platform (Android / iOS / Flutter / React Native)
   - 🎮 Unity Game Development
   - 🌐 Full-stack Web (React + Node.js / Go + PostgreSQL)
-  - 🤖 Claude Code 기반 spec-to-PR 자동화 파이프라인 연구
+  - 🤖 Codex 기반 작업·에이전트·근거·체크포인트를 중심으로 macOS 네이티브 AI 개발 워크벤치
 
 🛠  building_right_now:
   - "쏙핀 / 밥알": Instagram 기반 맛집·레시피 지도 앱
