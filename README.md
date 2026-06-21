@@ -79,23 +79,11 @@ haechan@github:~$ whoami
 </div>
 
 ---
-
-## 🐍 Contributions
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haechan1103/haechan1103/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haechan1103/haechan1103/output/github-contribution-grid-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/haechan1103/haechan1103/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br/><br/>
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=haechan1103&bg_color=0D1117&color=FF78C4&line=FF78C4&point=FFECEC&area=true&hide_border=true&theme=react-dark" width="95%" />
 
 <br/>
-
 ---
 <!-- 
 ## 🧠 Problem Solving
