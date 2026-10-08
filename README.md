@@ -106,5 +106,3 @@ haechan@github:~$ whoami
 </div>
 
 <br/>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FFECEC,100:FF78C4&height=120&section=footer)
